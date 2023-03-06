@@ -27,8 +27,8 @@ Hi, I'm Jorge Jimenez, a software developer. I'm from Mexico, living in Salt Lak
 
 Here are some of my NPM packages:
 
-[card-flick](https://www.npmjs.com/package/card-flick) - A React component that allows you to create a card flicking effect.
-[card-flick-react](https://www.npmjs.com/package/card-flick-react) - A React component that allows you to create a card flicking effect.
+-   [card-flick](https://www.npmjs.com/package/card-flick) - A React component that allows you to create a card flicking effect.
+-   [card-flick-react](https://www.npmjs.com/package/card-flick-react) - A React component that allows you to create a card flicking effect.
 
 Contact Me
 
