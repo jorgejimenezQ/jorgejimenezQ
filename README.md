@@ -1,19 +1,3 @@
-<!--
-**jorgejimenezQ/jorgejimenezQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![image of a computer](desk.png) -->
 <!-- How to use webp -->
 <img src="monitors.webp" width="500px"/>
 
@@ -31,6 +15,10 @@ Here are some of my NPM packages:
 -   [card-flick-react](https://www.npmjs.com/package/card-flick-react) - A React component that allows you to create a card flicking effect.
 
 ## Contact Me
+
+<!-- linkedin badge -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-jimenez-7b5b5b1b3/)](https://www.linkedin.com/in/jorge-jimenez-b190501b5/)
 
 Feel free to contact me at jimenezjorge717@gmail.com.
 
