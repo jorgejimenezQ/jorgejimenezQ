@@ -30,7 +30,7 @@ Here are some of my NPM packages:
 -   [card-flick](https://www.npmjs.com/package/card-flick) - A React component that allows you to create a card flicking effect.
 -   [card-flick-react](https://www.npmjs.com/package/card-flick-react) - A React component that allows you to create a card flicking effect.
 
-Contact Me
+## Contact Me
 
 Feel free to contact me at jimenezjorge717@gmail.com.
 
