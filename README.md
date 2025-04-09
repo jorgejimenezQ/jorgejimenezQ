@@ -1,7 +1,4 @@
-<!-- How to use webp -->
-<img src="monitors.webp" width="500px"/>
-
-### Hi there 👋 ––Welcome to My GitHub Profile!
+![Header](./github-header-image-2.png)
 
 ## Introduction
 
