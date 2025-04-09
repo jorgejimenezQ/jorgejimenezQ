@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Jorge Jimenez, a software developer. I'm from Mexico, living in Salt Lake City. I am passionate about learning and love to create software tools.
+I'm from Mexico living in Salt Lake City. I am a software engineer and I love to build things.
 
 ## NPM Packages
 
